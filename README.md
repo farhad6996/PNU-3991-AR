@@ -3,7 +3,7 @@
 # فرهاد خواجوي برنا
 - [PNU_3991_AR](https://github.com/farhad6996/PNU-3991-AR)
 - [Resume](https://farhad6996.github.io/) 
-- [SOP](https://farhad6996/SOP/)
+- [SOP](https://farhad6996.github.io/SOP/)
 - [Certificates](https://github.com/farhad6996/PNU-3991-AR/blob/main/CERTIFICATE.pdf)
 - [GitHub](https://github.com/farhad6996)
 - [jlord patchwork](https://github.com/farhad6996/PNU-3991-AR/blob/main/patchwork.png)
@@ -14,6 +14,7 @@
     1. [Fibonacci Heaps] (https://aparat.com/v/WfZXp)
     1. [Heap Sort] (https://github.com/javadkh76/javadkh76.github.io/blob/main/Heap%20Sort%20-%20Group%204.mkv?raw=true)
     1. [Fibonacci Heaps] (https://javadkh76.github.io/fibonacci-heap/FibonacciHeap.html)
+    1. [The Naive String Matching] (https://raw.githubusercontent.com/javadkh76/javadkh76.github.io/main/The%20Naive%20String%20Matching%20-%20Group%204_HD.mp4)
 # گروه ها
 1. [G-A04](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_MSc/AdvancedAlgorithms/1115025_80)
 
