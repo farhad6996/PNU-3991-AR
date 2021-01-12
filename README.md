@@ -28,7 +28,7 @@
 - [خلاصه ارزیابی بخش عمومی](https://github.com/farhad6996/PNU-3991-AR/blob/main/General%20evaluation.pdf)
 
 ##  بخش دروس ارشد
-- [خلاصه ارزیابی درس_الگوريتم هاي پيشرفته](https://github.com/farhad6996/PNU-3991-AR/blob/main/Lesson%20evaluation.pdf)
+- [خلاصه ارزیابی درس_الگوريتم هاي پيشرفته](https://github.com/farhad6996/PNU-3991-AR/blob/main/Lesson%20evaluation1.pdf)
 
 ------------------
  
