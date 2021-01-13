@@ -1,5 +1,5 @@
 # PNU-3991-AR
-
+<div dir="rtl">
 # فرهاد خواجوي برنا
 - [PNU_3991_AR](https://github.com/farhad6996/PNU-3991-AR)
 - [Resume](https://farhad6996.github.io/) 
