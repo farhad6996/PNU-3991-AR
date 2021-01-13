@@ -47,10 +47,11 @@
 <br>
 
 --------------
-<div dir="ltr">
-    
+  
     
 ## روز و ساعت ارائه دروس
+<div dir="ltr">
+    
 
 <table style="width:100%">
   <tr>
